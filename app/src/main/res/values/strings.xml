@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">RamamurthyPrajwal_CE01_MemoryGame</string>
+    <string name="app_name">PJ\'s Memory Game</string>
+
+
+    <string name="output_text">Guess Count: </string>
+
+    <string name="count"> 0</string>
+
+    <string name="reset">RESET</string>
+
+    <string name="tag0">0</string>
+    <string name="tag1">1</string>
+    <string name="tag2">2</string>
+    <string name="tag3">3</string>
+    <string name="tag4">4</string>
+    <string name="tag5">5</string>
+    <string name="tag6">6</string>
+    <string name="tag7">7</string>
+    <string name="tag8">8</string>
+    <string name="tag9">9</string>
+    <string name="tag10">10</string>
+    <string name="tag11">11</string>
+    <string name="tag12">12</string>
+    <string name="tag13">13</string>
+    <string name="tag14">14</string>
+    <string name="tag15">15</string>
+
 </resources>
